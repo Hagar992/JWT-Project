@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace JWT_Project
 {
-    // تعريف الفئة Program، وهي نقطة البداية لتشغيل التطبيق.
+   
     public class Program
     {
         // الطريقة الرئيسية التي يتم استدعاؤها عند تشغيل التطبيق.
